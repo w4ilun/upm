@@ -25,7 +25,7 @@
             "Specifications":
             {
                 "Operating Voltage": {"unit": "V", "low": 4.8, "typ": 5, "high": 5.2},
-                "Operating Current": {"unit": "mA", "max": 150},
+                "Operating Current": {"unit": "mA", "max": 150}
             },
             "Urls" :
             {

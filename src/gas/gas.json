@@ -96,7 +96,7 @@
                 "Operating Voltage": {"unit": "V", "typ": 5},
                 "Operating Current": {"unit": "mA", "low": 0.1, "high": 150},
                 "Heater Resistance": {"unit": "Ohms", "typ": 33},
-                "Sensor Resistance": {"unit": "KOhms", "low": 10, "high": 60},
+                "Sensor Resistance": {"unit": "KOhms", "low": 10, "high": 60}
             },
             "Urls" :
             {

@@ -26,7 +26,7 @@
             {
                 "Operating Voltage": {"unit": "V", "low": 2.0, "typ": 3.3, "high": 3.6},
                 "Peak Operating Current": {"unit": "mA", "typ": 15},
-                "Operating Temperature": {"unit": "degC", "low": -40, "high": 65},
+                "Operating Temperature": {"unit": "degC", "low": -40, "high": 65}
             },
             "Urls" :
             {

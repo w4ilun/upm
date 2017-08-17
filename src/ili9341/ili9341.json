@@ -24,7 +24,7 @@
             },
             "Specifications":
             {
-                "Operating Voltage": {"unit": "V", "low": 3, "high": 5},
+                "Operating Voltage": {"unit": "V", "low": 3, "high": 5}
 
             },
             "Urls" :

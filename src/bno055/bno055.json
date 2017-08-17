@@ -28,7 +28,7 @@
                 "Supply Current": {"unit": "mA", "low": 0.33, "high": 12.3},
                 "Supply Current (Suspended)": {"unit": "uA", "typ": 40},
                 "Gyroscope Ranges": {"unit": "deg/s", "low": 125, "high": 2000},
-                "Magnetometer Ranges": 
+                "Magnetometer Ranges": {}
             },
             "Platforms":
             {
